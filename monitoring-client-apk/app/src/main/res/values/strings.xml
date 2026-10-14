@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Monitoring Client</string>
-    <!-- Alamat dashboard. Ganti di sini bila domain/port berubah. -->
-    <string name="app_url" translatable="false">https://palapanetstb.duckdns.org:121</string>
-</resources>
